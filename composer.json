@@ -1,0 +1,16 @@
+{
+    "name": "mub/polls-with-php",
+    "description": "Pagina para la creacion de encuentas, echa con PHP 8 y MySQL 8.",
+    "autoload": {
+        "psr-4": {
+            "Mub\\PollsWithPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mub",
+            "email": "mubpersonal5@gmail.com"
+        }
+    ],
+    "require": {}
+}
